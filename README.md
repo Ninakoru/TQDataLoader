@@ -1,7 +1,7 @@
 # TQDataLoader
 Titan Quest Data Loader Tool
 
-What is this project?
+## What is this project?
 
 This project is two tools in one for game modding, focusing on the Database. This is a project for personal use that may be interesting to use for other modders.
 
@@ -9,7 +9,7 @@ This project is two tools in one for game modding, focusing on the Database. Thi
 
 - The Data Loader program is just a CSV generator, generates CSV file with database relevant data (IE all charms, all monsters, etc), so you can compare and prepare your changes properly. The CSV files also contain Translated texts for some CSV types.
 
-Patcher - How to use it:
+## Patcher - How to use it:
 
 - Setup your following application config keys (app.config): "DbrTemplatesDirectory" found on your documents game folder, "TextResourcesArcFile", on the game root directory under the "Text" folder.
 
@@ -21,7 +21,7 @@ Patcher - How to use it:
 
 - Run the patcher, then build your database file using artmanager. You can left click on Records, then build,
 
-Patcher Validations:
+## Patcher Validations:
 
 Proper file structure.
 Checks if the source path exist.
@@ -31,10 +31,11 @@ Some integrity checks, like too much commas in a line, too many decimal places.
 
 After patching the file, if the destination file is the same, the patcher will not overwrite it.
 
-How the txt files work:
+## How the txt files work:
 
 It will be always this format:
 
+```
 sourcePath1
 sourcePath2
 ----
@@ -46,6 +47,7 @@ sourcePath4
 ----
 property3,value3
 property4,value4
+```
 
 Adding entirely new files:
 
@@ -70,12 +72,15 @@ records\creature\monster\warbeast\bm_duskyboar_15.dbr
 
 So if we want to add it to all monsters in the folder, as all of them are boars is as simple as:
 
+```
 records\creature\monster\warbeast\*.dbr
 ----
 defensivePhysical,10.000000,
+```
 
 Now instead, we want the small boars have 10% physical res, but the big ones 15% instead:
 
+```
 records\creature\monster\warbeast\am_boar_*.dbr
 ----
 defensivePhysical,10.000000,
@@ -83,4 +88,4 @@ defensivePhysical,10.000000,
 records\creature\monster\warbeast\bm_duskyboar_*.dbr
 ----
 defensivePhysical,15.000000,
-
+```
