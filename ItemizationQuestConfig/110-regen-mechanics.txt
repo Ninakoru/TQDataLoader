@@ -1,0 +1,12 @@
+records\game\healthmanaregen.dbr
+----
+lifeRegenEquation,(lifeRegen + ((lifeTotal / 1200) * (1 + (lifeRegenMod / 100)))) * elapsedTime,
+manaRegenEquation,(manaRegen + (((intelligence / 100) + (manaTotal / 800)) * (1 + (manaRegenMod / 100)))) * elapsedTime,
+----
+records\game\bossgamebalanceattributes.dbr
+records\game\monstergamebalanceattributes.dbr
+----
+characterLifeRegen,0.000000,
+characterManaRegen,0.500000;1.000000;1.500000;2.000000;2.500000;3.000000;2.500000;4.000000;5.500000;7.000000;8.500000;10.000000;5.000000;8.000000;11.000000;14.000000;17.000000;20.000000,
+characterLifeRegenModifier,0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;25.000000;25.000000;25.000000;25.000000;25.000000;25.000000;50.000000;50.000000;50.000000;50.000000;50.000000;50.000000,
+characterManaRegenModifier,0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;25.000000;25.000000;25.000000;25.000000;25.000000;25.000000;50.000000;50.000000;50.000000;50.000000;50.000000;50.000000,

@@ -1,0 +1,47 @@
+records\proxies greek\area001\pools\beastmen\satyr_01_mixed00.dbr
+----
+name1,records\xpack3\creatures\monster\beetle\am_beetle_39.dbr,
+----
+records\proxies greek\area001\pools\beastmen\satyr_03_fodder00.dbr
+records\proxies greek\area001\pools\beastmen\satyr_02_melee00.dbr
+----
+name1,records\xpack3\creatures\monster\beetle\am_bigbeetle_40.dbr,
+----
+records\proxies greek\area001\pools\beastmen\satyr_03_melee00.dbr
+----
+name1,records\creature\devices\bladetrap\bladetrap_10.dbr,
+----
+records\proxies boss\pools\boss\bosspool_01_satyrshaman.dbr
+----
+name1,records\xpack3\creatures\monster\bosses\boss_omegatelkine_44.dbr,
+----
+records\proxies greek\area001\pools\beastmen\satyr_01_mixed00.dbr
+records\proxies greek\area001\pools\beastmen\satyr_02_melee00.dbr
+records\proxies greek\area001\pools\beastmen\satyr_03_fodder00.dbr
+records\proxies greek\area001\pools\beastmen\satyr_03_melee00.dbr
+records\proxies boss\pools\boss\bosspool_01_satyrshaman.dbr
+----
+spawnMin,1,
+spawnMax,1,
+difficultyCutoff1,,
+weight2,0,
+weight3,0,
+weight5,0,
+weight6,0,
+weight9,0,
+weight10,0,
+weight11,0,
+weight12,0,
+----
+records\proxies greek\area001\pools\beasts\boar_01_boars_01.dbr
+records\proxies greek\area001\pools\beasts\boar_01_crow_01.dbr
+records\proxies greek\area001\pools\beastmen\satyr_02_archer00.dbr
+----
+spawnMin,0,
+spawnMax,0,
+championMax,0,
+----
+records\proxies greek\limit_area*.dbr
+----
+maxPlayerLevelEquationNormal,60*1,
+maxPlayerLevelEquationEpic,70*1,

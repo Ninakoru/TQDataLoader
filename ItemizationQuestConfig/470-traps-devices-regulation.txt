@@ -1,0 +1,157 @@
+records\creature\devices\firetrap\firetrap_10.dbr
+records\creature\devices\frosttrap\frosttrap_10.dbr
+records\creature\devices\bladetrap\bladetrap_10.dbr
+----
+charLevel,10;33;56,
+skillLevel1,1;4;6,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,24;108;261,
+----
+records\creature\devices\firetrap\firetrap_15.dbr
+records\creature\devices\frosttrap\frosttrap_15.dbr
+records\creature\devices\bladetrap\bladetrap_15.dbr
+----
+charLevel,15;37;59,
+skillLevel1,2;5;7,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,36;126;288,
+----
+records\creature\devices\firetrap\firetrap_20.dbr
+records\creature\devices\frosttrap\frosttrap_20.dbr
+records\creature\devices\bladetrap\bladetrap_20.dbr
+----
+charLevel,20;41;62,
+skillLevel1,3;5;7,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,54;162;342,
+----
+records\creature\devices\firetrap\firetrap_25.dbr
+records\creature\devices\frosttrap\frosttrap_25.dbr
+records\creature\devices\bladetrap\bladetrap_25.dbr
+----
+charLevel,25;45;65,
+skillLevel1,4;6;8,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,63;180;369,
+----
+records\creature\devices\firetrap\firetrap_30.dbr
+records\creature\devices\frosttrap\frosttrap_30.dbr
+records\creature\devices\bladetrap\bladetrap_30.dbr
+----
+charLevel,30;49;68,
+skillLevel1,5;7;8,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,78;210;414,
+----
+records\creature\devices\firetrap\firetrap_35.dbr
+records\creature\devices\frosttrap\frosttrap_35.dbr
+records\creature\devices\bladetrap\bladetrap_35.dbr
+records\xpack\item\traps\firetrap\firetrap_35.dbr
+records\xpack\item\traps\frosttrap\frosttrap_35.dbr
+records\xpack\item\traps\bladetrap\bladetrap_35.dbr
+----
+charLevel,35;53;71,
+skillLevel1,6;7;8,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,116;304;588,
+----
+records\creature\devices\firetrap\firetrap_40.dbr
+records\creature\devices\frosttrap\frosttrap_40.dbr
+records\creature\devices\bladetrap\bladetrap_40.dbr
+records\xpack\item\traps\firetrap\firetrap_40.dbr
+records\xpack\item\traps\bladetrap\bladetrap_40.dbr
+records\xpack\item\traps\frosttrap\frosttrap_40.dbr
+----
+charLevel,40;57;74,
+skillLevel1,7;8;9,
+skillName3,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel3,124;320;608,
+----
+records\xpack\item\traps\bladetrap\bladetrap_45.dbr
+records\xpack\item\traps\firetrap\firetrap_45.dbr
+records\xpack\item\traps\frosttrap\frosttrap_45.dbr
+----
+charLevel,45;61;77,
+skillLevel1,8;9;10,
+----
+records\xpack\item\traps\bladetrap\bladetrap_50.dbr
+records\xpack\item\traps\firetrap\firetrap_50.dbr
+records\xpack\item\traps\frosttrap\frosttrap_50.dbr
+records\xpack2\item\traps\crystaltrap\crystaltrap_50.dbr
+records\xpack2\item\traps\firetrap\firetrap_50.dbr
+records\xpack2\item\traps\firetrap\firetrap_50_wood.dbr
+records\xpack2\item\traps\frosttrap\frosttrap_50.dbr
+records\xpack2\item\traps\frosttrap\frosttrap_50_wood.dbr
+records\xpack2\item\traps\bladetrap\bladetrap_50.dbr
+records\xpack2\item\traps\bladetrap\bladetrap_50_wood.dbr
+----
+charLevel,50;65;80,
+skillLevel1,9;10;11,
+--------------------------------------------------------------------------------
+records\creature\devices\darkobelisk\egypt_darkobelisk_20.dbr
+----
+charLevel,20;41;62,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,36;126;288,
+----
+records\creature\devices\darkobelisk\egypt_darkobelisk_25.dbr
+----
+charLevel,25;45;65,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,54;162;342,
+----
+records\creature\devices\darkobelisk\egypt_darkobelisk_30.dbr
+records\creature\devices\darkobelisk\orient_darkobelisk_30.dbr
+----
+charLevel,30;49;68,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,63;180;369,
+----
+records\creature\devices\darkobelisk\egypt_darkobelisk_35.dbr
+records\creature\devices\darkobelisk\orient_darkobelisk_35.dbr
+----
+charLevel,35;53;71,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,78;210;414,
+----
+records\creature\devices\darkobelisk\egypt_darkobelisk_40.dbr
+records\creature\devices\darkobelisk\orient_darkobelisk_40.dbr
+----
+charLevel,40;57;74,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,116;304;588,
+----
+records\creature\devices\darkobelisk\orient_darkobelisk_45.dbr
+records\xpack3\creatures\monster\darkobelisk\gadir_darkobelisk_45.dbr
+----
+charLevel,45;61;77,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,124;320;608,
+----
+records\creature\devices\darkobelisk\orient_darkobelisk_50.dbr
+records\creature\devices\darkobelisk\um_darkobelisk_50.dbr
+----
+charLevel,50;65;80,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,124;320;608,
+----
+records\creature\devices\darkobelisk\orient_darkobelisk_55.dbr
+records\creature\devices\darkobelisk\um_darkobelisk_55.dbr
+----
+charLevel,55;69;83,
+skillName2,Records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,124;320;608,
+----
+records\creature\devices\darkobelisk\orient_darkobelisk_50.dbr
+----
+skillLevel6,2;5;7,
+skillLevel8,2:4:6,
+skillLevel9,4:6:8,
+skillLevel10,4:6:8,
+----
+records\creature\devices\darkobelisk\um_darkobelisk_55.dbr
+----
+skillLevel6,4;7;9,
+skillLevel8,4:6:8,
+skillLevel9,6:8:10,
+skillLevel10,5:7:9,

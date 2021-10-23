@@ -1,0 +1,6 @@
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+buffSkillName,records\xpack2\skills\item skills\DeathchillAuraBuff.dbr,
+FileDescription,,
+instantCast,0,

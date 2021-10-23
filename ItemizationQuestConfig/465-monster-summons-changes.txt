@@ -1,0 +1,417 @@
+records\skills\monster skills\summoning_pets\pets\spiritboar_*.dbr
+----
+dropItems,0,
+characterDodgePercent,20.000000,
+characterDeflectProjectile,20.000000,
+skillName1,records\skills\monster skills\defense\armor_passive.dbr,
+skillName5,records\skills\monster skills\passive_buffs\physdmg_meleeonly01.dbr,
+skillLevel5,1;2;3,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_01.dbr
+----
+charLevel,1;31;51,
+skillLevel1,6;82;215,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_02.dbr
+----
+charLevel,2;32;52,
+skillLevel1,7;84;218,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_03.dbr
+----
+charLevel,3;32;52,
+skillLevel1,8;86;220,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_04.dbr
+----
+charLevel,4;33;52,
+skillLevel1,9;88;223,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_05.dbr
+----
+charLevel,5;34;53,
+skillLevel1,12;94;230,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_06.dbr
+----
+charLevel,6;34;53,
+skillLevel1,15;100;238,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_07.dbr
+----
+charLevel,7;35;53,
+skillLevel1,18;106;245,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_08.dbr
+----
+charLevel,8;36;54,
+skillLevel1,21;112;253,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_09.dbr
+----
+charLevel,9;36;54,
+skillLevel1,24;118;260,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_10.dbr
+----
+charLevel,10;37;54,
+skillLevel1,27;124;268,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_11.dbr
+----
+charLevel,11;38;55,
+skillLevel1,30;130;275,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_12.dbr
+----
+charLevel,12;38;55,
+skillLevel1,32;134;280,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_13.dbr
+----
+charLevel,13;39;56,
+skillLevel1,34;138;285,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_14.dbr
+----
+charLevel,14;40;56,
+skillLevel1,36;142;290,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_15.dbr
+----
+charLevel,15;40;57,
+skillLevel1,38;146;295,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_16.dbr
+----
+charLevel,16;41;57,
+skillLevel1,40;150;300,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_17.dbr
+----
+charLevel,17;42;58,
+skillLevel1,42;154;305,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_18.dbr
+----
+charLevel,18;42;58,
+skillLevel1,44;158;310,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_19.dbr
+----
+charLevel,19;43;59,
+skillLevel1,46;162;315,
+----
+records\skills\monster skills\summoning_pets\pets\spiritboar_20.dbr
+----
+charLevel,20;44;59,
+skillLevel1,48;166;320,
+--------------------------------------------------------------------------------
+records\skills\boss skills\summoned minions\yaoguai_shadowstalker_24.dbr
+----
+charLevel,24;46;61,
+characterDexterity,200.000000,
+characterIntelligence,100.000000,
+skillName1,Records\Skills\Monster Skills\Passive_Buffs\PhysDmg_MeleeOnly01.dbr,
+skillLevel1,1;2;3,
+skillName2,Records\Skills\Monster Skills\Passive_Buffs\Attack_DamageModifier_02.dbr,
+skillLevel2,2;4;6,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\lightningwisp_*.dbr
+----
+skillName8,Records\Skills\Monster Skills\Defense\Armor_Passive.dbr,
+skillLevel8,40;116;240,
+--------------------------------------------------------------------------------
+records\creature\devices\darkobelisk\pet\darkobelisksoul*.dbr
+----
+skillName1,records\skills\monster skills\attack_melee\darkobelisksoul_spectraltouch.dbr,
+----
+records\creature\devices\darkobelisk\pet\darkobelisksoul_1*.dbr
+records\creature\devices\darkobelisk\pet\darkobelisksoul_2*.dbr
+records\creature\devices\darkobelisk\pet\darkobelisksoul_3*.dbr
+records\creature\devices\darkobelisk\pet\darkobelisksoul_4*.dbr
+----
+skillName3,records\skills\monster skills\passive_buffs\physdmg_meleeonly02.dbr,
+skillLevel3,1;2;3,
+----
+records\skills\boss skills\summoned minions\nehebkau_scorpion_19.dbr
+----
+characterMana,0.000000,
+skillLevel1,9;13;18,
+--------------------------------------------------------------------------------
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_19.dbr
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_22.dbr
+----
+skillName1,records\skills\monster skills\attack_melee\darkobelisksoul_spectraltouch.dbr,
+skillLevel4,6;9;12,
+skillLevel5,2;3;4,
+skillName8,records\skills\monster skills\passive_buffs\physdmg_meleeonly02.dbr,
+skillLevel8,1;2;3,
+initialSkillName,Records\Skills\Stealth\EnvenomWeapon.dbr,
+buffSelfSkillName,Records\Skills\Defensive\Rally.dbr,
+buffSelf2SkillName,,
+----
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_25.dbr
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_28.dbr
+----
+skillName1,records\skills\monster skills\attack_melee\darkobelisksoul_spectraltouch.dbr,
+skillName4,Records\Skills\Spirit\DeathchillAura.dbr,
+skillLevel4,2;3;4,
+skillName5,Records\Skills\Spirit\DeathchillAura_Necrosis.dbr,
+skillLevel5,1;2;3,
+skillName6,Records\Skills\Spirit\DeathchillAura_RavagesofTime.dbr
+skillLevel6,2;3;4,
+skillLevel7,4;5;6,
+skillName8,records\skills\monster skills\attack_projectile\darkobelisksoul_arcaneblast.dbr,
+attackSkillName,records\skills\monster skills\attack_projectile\darkobelisksoul_arcaneblast.dbr
+skillName3,records\skills\monster skills\passive_buffs\attack_spiritmodifier.dbr,
+initialSkillName,Records\Skills\Spirit\DeathchillAura.dbr,
+buffSelfSkillName,Records\Skills\Monster Skills\Buff_Self\Monster_CalloftheHunt.dbr,
+buffSelf2SkillName,,
+----
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_19.dbr
+----
+skillLevel1,5;15;25,
+skillLevel2,3;5;8,
+skillLevel3,2;6;10,
+----
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_22.dbr
+----
+skillLevel1,6;17;27,
+skillLevel2,4;6;8,
+skillLevel3,3;7;11,
+----
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_25.dbr
+----
+skillLevel1,6;17;27,
+skillLevel2,4;6;9,
+skillLevel3,2;5;8,
+skillLevel8,3;13;23,
+----
+records\skills\boss skills\summoned minions\pharaohshonorguard_mummyguardian_28.dbr
+----
+skillLevel1,7;19;22,
+skillLevel2,5;7;9,
+skillLevel3,3;6;9,
+skillLevel8,5;15;25,
+--------------------------------------------------------------------------------
+records\skills\boss skills\summoned minions\aktaios_tombguardian_*.dbr
+----
+skillName8,Records\Skills\Monster Skills\Passive_Buffs\PhysDmg_MeleeOnly.dbr,
+specialAttackSkillName,Records\Skills\Monster Skills\Attack_Radius\TombGuardian_FlameRing.dbr,
+specialAttackTimeout,5.000000,
+specialAttackRange,ShortRange,
+----
+records\skills\boss skills\summoned minions\aktaios_tombguardian_21.dbr
+----
+handHitDamageMin,74.000000,
+handHitDamageMax,94.000000,
+skillLevel1,2;10;16,
+----
+records\skills\boss skills\summoned minions\aktaios_tombguardian_24.dbr
+----
+handHitDamageMin,83.000000,
+handHitDamageMax,103.000000,
+skillLevel1,3;11;17,
+----
+records\skills\boss skills\summoned minions\aktaios_tombguardian_27.dbr
+----
+handHitDamageMin,92.000000,
+handHitDamageMax,112.000000,
+skillLevel1,4;12;18,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\spriteice_*.dbr
+----
+skillLevel2,2;10;18,
+attackSkillName,Records\Skills\Monster Skills\Attack_Melee\IceSprite_FrostTouch.dbr,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_*.dbr
+----
+charLevel,1;11;21,
+defensivePhysical,0.000000,
+defensivePierce,0.000000,
+defensiveFire,0.000000,
+defensivePoison,0.000000,
+defensiveLife,0.000000,
+defensiveSleep,0.000000,
+defensiveStun,0.000000,
+defensiveTrap,0.000000,
+defensiveFreeze,0.000000,
+defensivePetrify,0.000000,
+skillName13,Records\Skills\Monster Skills\Defense\Armor_Passive.dbr,
+skillLevel13,15;95;243,
+skillName14,records\skills\monster skills\defense\misc_bees.dbr,
+skillLevel14,1;2;3,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_01.dbr
+----
+skillLevel1,1;9;13,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_02.dbr
+----
+skillLevel1,2;10;14,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_03.dbr
+----
+skillLevel1,3;10;14,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_04.dbr
+----
+skillLevel1,4;11;15,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_05.dbr
+----
+skillLevel1,5;11;15,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_06.dbr
+----
+skillLevel1,6;12;16,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_07.dbr
+----
+skillLevel1,7;12;16,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_08.dbr
+----
+skillLevel1,8;13;17,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_09.dbr
+----
+skillLevel1,9;13;17,
+----
+records\xpack\skills\monsterskills\summoning\pets\stingingswarm_10.dbr
+----
+skillLevel1,10;14;18,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\minichthian_*.dbr
+----
+skillName1,Records\Skills\Monster Skills\Passive_Buffs\PhysDmg_MeleeOnly.dbr,
+skillLevel1,1;2;3,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\albinospider_*.dbr
+----
+skillLevel3,1;8;13,
+skillLevel4,1;2;3,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\cripplingward_*.dbr
+----
+attackSkillName,Records\XPack\Skills\MonsterSkills\Summoning\Pets\CripplingWard_Skill_Cripple.dbr,
+skillName1,Records\XPack\Skills\MonsterSkills\Summoning\Pets\CripplingWard_Skill_Cripple.dbr,
+initialSkillName,,
+----
+records\xpack\skills\monsterskills\summoning\pets\cripplingward_skill_cripple.dbr
+----
+skillCooldownTime,0.250000,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\bloatedone_petalbinospider_38.dbr
+----
+skillLevel3,3;9;14,
+skillLevel4,3;4;5,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\battlestandard_*.dbr
+records\xpack2\skills\monster skills\summoning_pets\pets\fe_banner_*.dbr
+----
+skillName1,Records\Skills\Monster Skills\Summoning_Pets\BattleStandard_PetSkill_Default.dbr,
+initialSkillName,Records\Skills\Monster Skills\Summoning_Pets\BattleStandard_PetSkill_Default.dbr,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\pets\quillvine_01.dbr
+----
+skillLevel1,1;3;5,
+----
+records\xpack\skills\monsterskills\summoning\pets\quillvine_02.dbr
+----
+skillLevel1,2;4;6,
+----
+records\xpack\skills\monsterskills\summoning\pets\quillvine_03.dbr
+----
+skillLevel1,3;5;7,
+----
+records\xpack\skills\monsterskills\summoning\pets\quillvine_04.dbr
+----
+skillLevel1,4;6;8,
+----
+records\xpack\skills\monsterskills\summoning\pets\quillvine_05.dbr
+----
+skillLevel1,5;7;9,
+----
+records\xpack\skills\monsterskills\summoning\pets\quillvine_06.dbr
+----
+skillLevel1,6;8;10,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\hero_laytrap.dbr
+----
+skillMaxLevel,6,
+skillUltimateLevel,6,
+skillManaCost,46.000000;50.000000;54.000000;58.000000;62.000000;66.000000,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_01.dbr
+----
+skillLevel1,8,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_02.dbr
+----
+skillLevel1,10,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_03.dbr
+----
+skillLevel1,12,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_04.dbr
+----
+skillLevel1,14,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_05.dbr
+----
+skillLevel1,16,
+----
+records\xpack\skills\monsterskills\summoning\pets\bolttrap_06.dbr
+----
+skillLevel1,18,
+--------------------------------------------------------------------------------
+records\xpack\skills\monsterskills\summoning\quillvine_barb.dbr
+----
+offensivePhysicalMin,208.000000;225.000000;245.000000;263.000000;283.000000;300.000000;320.000000;338.000000;358.000000;375.000000;395.000000;413.000000;433.000000;450.000000;470.000000;488.000000;508.000000;525.000000;545.000000;563.000000,
+--------------------------------------------------------------------------------
+records\xpack2\skills\boss skills\ancientlake_turret.dbr
+----
+charLevel,45;64;72,
+skillLevel1,4;6;7,
+--------------------------------------------------------------------------------
+records\xpack3\skills\boss skills\summoned minions\fleader_merfolk_lightningrod_35.dbr
+----
+skillLevel1,4;10;15,
+--------------------------------------------------------------------------------
+records\xpack3\skills\boss skills\pet\watercolumn_attack.dbr
+----
+skillMaxLevel,3,
+offensiveColdMin,250.000000;325.000000;375.000000,
+offensiveSlowPhysicalMin,250.000000;325.000000;375.000000,
+----
+records\xpack3\skills\boss skills\pet\watercolumn.dbr
+----
+skillLevel1,1;2;3
+--------------------------------------------------------------------------------
+records\xpack3\skills\boss skills\pet\tiamat_tail_42.dbr
+----
+skillLevel1,140;180;205,
+skillLevel2,180;230;265,
+skillLevel13,100;263;510,
+----
+records\xpack3\skills\boss skills\pet\tiamat_tail_45.dbr
+----
+skillLevel1,150;190;210,
+skillLevel2,200;255;295,
+skillLevel13,100;263;510,
+----
+records\xpack3\skills\boss skills\pet\tiamat_tail_48.dbr
+----
+skillLevel1,160;205;235,
+skillLevel2,220;280;325,
+skillLevel13,100;263;510,
+--------------------------------------------------------------------------------
+records\xpack3\skills\boss skills\summoned minions\aktaios_ghost_27*.dbr
+----
+charLevel,37;55;67,
+skillLevel1,15;18;20,
+skillLevel2,10;15;18,
+skillLevel9,85;224;435,

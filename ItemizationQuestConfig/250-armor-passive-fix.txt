@@ -1,0 +1,198 @@
+records\creature\monster\rumormonsters\greece\jg01_satyrtrapper_*.dbr
+records\creature\monster\rumormonsters\greece\jg01_satyr_ranged_*.dbr
+----
+skillName9,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel9,7;95;243,
+----
+records\creature\monster\rumormonsters\greece\jg12_giantlimos_*.dbr
+----
+skillName13,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel13,42;138;306,
+----
+records\creature\monster\rumormonsters\greece\jg3_satyrbrute_*.dbr
+----
+skillName9,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel9,27;114;270,
+----
+records\creature\monster\rumormonsters\greece\jg7_undeadbrother_*.dbr
+records\creature\monster\rumormonsters\greece\q4_giantskeleton_*.dbr
+records\creature\monster\rumormonsters\greece\jg10_ino_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,24;108;261,
+----
+records\creature\monster\rumormonsters\greece\jg4_eurynomusdowrythief_*.dbr
+----
+skillName2,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,24;108;261,
+----
+records\creature\monster\rumormonsters\greece\jg6_arachnosoverseer_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,24;108;261,
+----
+records\creature\monster\rumormonsters\greece\jg6_orbedweaver_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,18;103;252,
+----
+records\creature\monster\rumormonsters\greece\jg15_harpycrone_*.dbr
+records\creature\monster\rumormonsters\greece\jg15_harpyhag_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,33;120;279
+----
+records\creature\monster\rumormonsters\greece\jg11_flamingboarman_*.dbr
+----
+skillName9,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel9,27;114;270,
+--------------------------------------------------------------------------------
+records\creature\monster\rumormonsters\egypt\je2_scorposancient_*.dbr
+----
+skillName2,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel2,63;180;369,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptiliansoldier_18.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,45;144;315,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptiliansoldier_21.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,54;162;342,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptilianoverseer_21.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,36;108;228,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptilianoverseer_24.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,38;112;234,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptiliancenturian_19.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,51;156;333,
+----
+records\creature\monster\rumormonsters\egypt\je4_reptiliancenturian_22.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,54;162;342,
+----
+records\creature\monster\rumormonsters\egypt\je5_shadowstalker_24.dbr
+records\creature\monster\rumormonsters\egypt\je5_shadowstalker_27.dbr
+records\creature\monster\rumormonsters\egypt\je5_shadowstalker_30.dbr
+----
+skillName1,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel1,60;174;360,
+----
+records\creature\monster\rumormonsters\egypt\je7_ancestralguardian_*.dbr
+----
+skillName2,Records\Skills\Monster Skills\Defense\Armor_Passive.dbr,
+skillLevel2,60;174;360,
+----
+records\creature\monster\rumormonsters\egypt\je06_*_ambush.dbr
+records\creature\monster\rumormonsters\egypt\je11_transmogpriest_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,43;122;249,
+----
+records\creature\monster\rumormonsters\egypt\je10_iznu_*.dbr
+----
+skillName4,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel4,63;180;369,
+--------------------------------------------------------------------------------
+records\creature\monster\rumormonsters\orient\jo9_deathspinner_*.dbr
+records\creature\monster\rumormonsters\orient\jo7_raptor_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,78;210;414,
+----
+records\creature\monster\rumormonsters\orient\jo11_terracotta_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,104;280;552,
+----
+records\creature\monster\rumormonsters\orient\jo03_spriteice_*.dbr
+----
+skillName17,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel17,40;116;240,
+----
+records\creature\monster\rumormonsters\orient\jo_ichthian_warrior_*.dbr
+records\creature\monster\rumormonsters\orient\jo4_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,60;174;360,
+----
+records\creature\monster\rumormonsters\orient\jo_ichthian_bonecaster_*.dbr
+----
+skillName8,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel8,46;128;258,
+----
+records\creature\monster\rumormonsters\orient\qs_ichthian_bonecaster_*.dbr
+----
+skillName17,records\skills\monster skills\defense\armor_passive.dbr,
+skillLevel17,46;128;258,
+----
+records\creature\monster\rumormonsters\orient\jo16_tigerman_warrior_*.dbr
+records\creature\monster\rumormonsters\orient\jo16_tigerman_champion_*.dbr
+----
+skillName7,Records\Skills\Monster Skills\Defense\Armor_Passive.dbr,
+skillLevel7,78;210;414,
+----
+records\creature\monster\rumormonsters\orient\qs_tigerman_sorcerer_*.dbr
+records\creature\monster\rumormonsters\orient\jo16_tigerman_sorcerer_*.dbr
+----
+skillName17,Records\Skills\Monster Skills\Defense\Armor_Passive.dbr,
+skillLevel17,50;136;270,
+--------------------------------------------------------------------------------
+records\creature\monster\spider\am_caverncrawler_03.dbr
+records\creature\monster\spider\am_caverncrawler_04.dbr
+records\creature\monster\spider\am_minion_03.dbr
+----
+skillLevel17,9;90;236,
+----
+records\creature\monster\spider\am_caverncrawler_06.dbr
+records\creature\monster\spider\am_minion_05.dbr
+----
+skillLevel17,12;93;240,
+----
+records\creature\monster\spider\am_caverncrawler_08.dbr
+records\creature\monster\spider\am_minion_08.dbr
+----
+skillLevel17,15;95;243,
+----
+records\creature\monster\spider\bm_catacombcrawler_0*.dbr
+----
+skillLevel17,21;108;262,
+----
+records\creature\monster\spider\am_broodling_*.dbr
+records\creature\monster\spider\am_orbedweaver_*.dbr
+----
+skillLevel17,27;114;270
+----
+records\creature\monster\spider\bm_catacombcrawler_1*.dbr
+----
+skillLevel17,30;117;274,
+----
+records\creature\monster\spider\bm_orbedbroodmother_*.dbr
+records\creature\monster\spider\bm_orbeddeadlystalker_*.dbr
+----
+skillLevel17,33;120;279,
+----
+records\creature\monster\spider\am_tropicalminion_*.dbr
+----
+skillLevel17,60;174;360,
+----
+records\creature\monster\spider\am_tropicalwidow_2*.dbr
+records\creature\monster\spider\am_tropicalwidow_babylon_2*.dbr
+----
+skillLevel17,63;180;369,
+----
+records\creature\monster\spider\am_tropicalwidow_32.dbr
+records\creature\monster\spider\am_tropicalwidow_babylon_32.dbr
+----
+skillLevel17,72;198;396,

@@ -1,0 +1,318 @@
+records\game\itemcost_uniqueepic_*.dbr
+-----
+maceLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+forearmLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+axeLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+swordLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+upperBodyLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+spearLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+staffLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+bowLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+braceletLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+lowerBodyLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+shieldLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+headLevelEquation,24.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+amuletLevelEquation,25 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+ringLevelEquation,25 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+----
+records\game\itemcost_uniquelegendary_*.dbr
+-----
+maceLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+forearmLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+axeLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+swordLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+upperBodyLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+spearLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+staffLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+bowLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+braceletLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+lowerBodyLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+shieldLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+headLevelEquation,25.5 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+amuletLevelEquation,26 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+ringLevelEquation,26 + (((itemLevel-30)*0.5)+(totalAttCount*0.75)),
+----
+records\xpack\item\equipmentarmor\armband\m_n_*.dbr
+records\xpack\item\equipmentarmor\armband\mi_n_*.dbr
+----
+itemLevel,32,
+levelRequirement,,
+----
+records\xpack2\item\equipmentarmor\ring\u_n_*.dbr
+records\xpack2\item\equipmentarmor\amulet\u_n_*.dbr
+records\xpack2\item\equipmentweapons\shield\u_n_*.dbr
+records\xpack2\item\equipmentweapons\bow\u_n_*.dbr
+records\xpack2\item\equipmentweapons\spear\u_n_*.dbr
+records\xpack2\item\equipmentweapons\axe\u_n_*.dbr
+records\xpack2\item\equipmentweapons\club\u_n_*.dbr
+records\xpack2\item\equipmentweapons\sword\u_n_*.dbr
+----
+itemCostName,records\game\itemcost_unique_primary.dbr,
+levelRequirement,,
+----
+records\xpack2\item\equipmentarmor\ring\u_e_*.dbr
+records\xpack2\item\equipmentarmor\amulet\u_e_*.dbr
+records\xpack2\item\equipmentarmor\armband\usm_e_shade.dbr
+records\xpack2\item\equipmentarmor\helm\usm_e_shade.dbr
+records\xpack2\item\equipmentarmor\greaves\usm_e_shade.dbr
+records\xpack2\item\equipmentarmor\torso\usm_e_shade.dbr
+records\xpack2\item\equipmentweapons\shield\usm_e_shade.dbr
+records\xpack2\item\equipmentweapons\shield\u_e_*.dbr
+records\xpack2\item\equipmentweapons\bow\usm_e_shade.dbr
+records\xpack2\item\equipmentweapons\bow\u_e_*.dbr
+records\xpack2\item\equipmentweapons\spear\u_e_*.dbr
+records\xpack2\item\equipmentweapons\axe\u_e_*.dbr
+records\xpack2\item\equipmentweapons\club\u_e_*.dbr
+records\xpack2\item\equipmentweapons\sword\u_e_*.dbr
+----
+itemCostName,records\game\itemcost_uniqueepic_primary.dbr,
+levelRequirement,,
+----
+records\xpack2\item\equipmentarmor\ring\u_l_*.dbr
+records\xpack2\item\equipmentarmor\ring\usm_l_allfather.dbr
+records\xpack2\item\equipmentarmor\amulet\u_l_*.dbr
+records\xpack2\item\equipmentarmor\amulet\us_l_hornedgod.dbr
+records\xpack2\item\equipmentarmor\amulet\usm_l_freyja.dbr
+records\xpack2\item\equipmentweapons\shield\u_l_*.dbr
+records\xpack2\item\equipmentweapons\bow\u_l_*.dbr
+records\xpack2\item\equipmentweapons\spear\us_l_hornedgod.dbr
+records\xpack2\item\equipmentweapons\spear\u_l_02.dbr
+records\xpack2\item\equipmentweapons\spear\usm_l_allfather.dbr
+records\xpack2\item\equipmentweapons\axe\u_l_*.dbr
+records\xpack2\item\equipmentweapons\club\u_l_*.dbr
+records\xpack2\item\equipmentweapons\sword\u_l_*.dbr
+----
+itemCostName,records\game\itemcost_uniquelegendary_primary.dbr,
+levelRequirement,,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_*.dbr
+----
+itemCostName,records\game\itemcost_roh.dbr,
+--------------------------------------------------------------------------------
+records\item\equipmentarmor\m*_n_centaur.dbr
+records\item\equipmenthelm\m*_n_centaur.dbr
+----
+strengthRequirement,65,
+----
+records\item\equipmentarmor\m*_n_duneraiderb.dbr
+records\item\equipmenthelm\m*_n_deserthag.dbr
+----
+strengthRequirement,80,
+dexterityRequirement,144,
+----
+records\item\equipmentarmband\m_e_boarman.dbr
+----
+itemLevel,40,
+----
+records\item\equipmentarmband\m_l_boarman.dbr
+----
+itemLevel,60,
+----
+records\item\equipmentweapon\club\default\mi_n_cyclops.dbr
+----
+itemCostName,records\game\itemcost_unique_primary.dbr,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_10.dbr
+----
+levelRequirement,27,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_11.dbr
+----
+levelRequirement,29,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_12.dbr
+----
+levelRequirement,31,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_n_01.dbr
+----
+levelRequirement,30,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_n_02.dbr
+----
+levelRequirement,28,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_n_03.dbr
+----
+levelRequirement,26,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_13.dbr
+----
+levelRequirement,32,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_14.dbr
+----
+levelRequirement,34,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_n_15.dbr
+----
+levelRequirement,36,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_01.dbr
+----
+levelRequirement,39,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_02.dbr
+----
+levelRequirement,40,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_03.dbr
+----
+levelRequirement,41,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_04.dbr
+----
+levelRequirement,42,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_05.dbr
+----
+levelRequirement,44,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_06.dbr
+----
+levelRequirement,45,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_07.dbr
+----
+levelRequirement,46,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_e_01.dbr
+----
+levelRequirement,45,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_e_02.dbr
+----
+levelRequirement,46,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_08.dbr
+----
+levelRequirement,47,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_09.dbr
+----
+levelRequirement,48,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_e_10.dbr
+----
+levelRequirement,49,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_01.dbr
+----
+levelRequirement,50,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_02.dbr
+----
+levelRequirement,51,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_03.dbr
+----
+levelRequirement,52,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_04.dbr
+----
+levelRequirement,53,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_l_01.dbr
+----
+levelRequirement,54,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_l_02.dbr
+----
+levelRequirement,55,
+----
+records\xpack3\items\equipmentweapon\1hranged\u_l_03.dbr
+----
+levelRequirement,56,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_05.dbr
+----
+levelRequirement,54,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_06.dbr
+----
+levelRequirement,55,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_07.dbr
+----
+levelRequirement,56,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_08.dbr
+----
+levelRequirement,56,
+----
+records\xpack2\item\equipmentweapons\1hranged\us_l_donarsmight.dbr
+----
+levelRequirement,57,
+----
+records\xpack2\item\equipmentweapons\1hranged\u_l_10.dbr
+----
+levelRequirement,58,
+--------------------------------------------------------------------------------
+records\game\itemcost.dbr
+records\game\itemcost_heavyarmor.dbr
+----
+maceStrengthEquation,280+((itemLevel-31)*7.25),
+axeStrengthEquation,250+((itemLevel-31)*6.25),
+swordDexterityEquation,165+((itemLevel-31)*3.5),
+swordStrengthEquation,193+((itemLevel-31)*4.5),
+spearDexterityEquation,225+((itemLevel-31)*5.5),
+bowDexterityEquation,236+((itemLevel-31)*6),
+shieldStrengthEquation,255+((itemLevel-31)*6.25),
+staffIntelligenceEquation,285+((itemLevel-31)*7.25),
+headStrengthEquation,295+((itemLevel-31)*7),
+forearmStrengthEquation,295+((itemLevel-31)*7),
+lowerBodyStrengthEquation,295+((itemLevel-31)*7),
+upperBodyStrengthEquation,295+((itemLevel-31)*7),
+----
+records\game\itemcost_dexarmor.dbr
+----
+headDexterityEquation,235+((itemLevel-31)*6),
+forearmDexterityEquation,235+((itemLevel-31)*6),
+lowerBodyDexterityEquation,235+((itemLevel-31)*6),
+upperBodyDexterityEquation,235+((itemLevel-31)*6),
+----
+records\game\itemcost_lightarmor.dbr
+----
+headStrengthEquation,225+((itemLevel-31)*5),
+forearmStrengthEquation,225+((itemLevel-31)*5),
+lowerBodyStrengthEquation,225+((itemLevel-31)*5),
+upperBodyStrengthEquation,225+((itemLevel-31)*5),
+----
+records\game\itemcost_magearmor.dbr
+----
+headIntelligenceEquation,225+((itemLevel-31)*5.5),
+forearmIntelligenceEquation,225+((itemLevel-31)*5.5),
+lowerBodyIntelligenceEquation,225+((itemLevel-31)*5.5),
+braceletIntelligenceEquation,225+((itemLevel-31)*5.5),
+upperBodyIntelligenceEquation,225+((itemLevel-31)*5.5),
+----
+records\game\itemcost_staff.dbr
+----
+staffIntelligenceEquation,285+((itemLevel-31)*7.25),
+----
+records\game\itemcost_unique_mage.dbr
+----
+staffIntelligenceEquation,50+((itemLevel-1)*8.25),
+----
+records\game\itemcost_unique_primary.dbr
+----
+shieldStrengthEquation,50+((itemLevel-1)*6.25),
+staffIntelligenceEquation,50+((itemLevel-1)*8.25),
+----
+records\game\itemcost_uniqueepic_primary.dbr
+----
+maceStrengthEquation,313 + ( (itemLevel-31) * 6.25),
+axeStrengthEquation,271 + ( (itemLevel-31) * 5.5),
+headStrengthEquation,326 + ( (itemLevel-31) * 6.25),
+forearmStrengthEquation,326 + ( (itemLevel-31) * 6.25),
+lowerBodyStrengthEquation,326 + ( (itemLevel-31) * 6.25),
+upperBodyStrengthEquation,326 + ( (itemLevel-31) * 6.25),
+----
+records\game\itemcost_uniquelegendary_primary.dbr
+----
+maceStrengthEquation,325 + ( (itemLevel-31) * 6.25),
+axeStrengthEquation,282 + ( (itemLevel-31) * 5.5),
+headStrengthEquation,339 + ( (itemLevel-31) * 6.25),
+forearmStrengthEquation,339 + ( (itemLevel-31) * 6.25),
+lowerBodyStrengthEquation,339 + ( (itemLevel-31) * 6.25),
+upperBodyStrengthEquation,339 + ( (itemLevel-31) * 6.25),

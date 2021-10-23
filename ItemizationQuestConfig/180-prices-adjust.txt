@@ -1,0 +1,36 @@
+records\game\itemcost.dbr
+----
+armorCostEquation,((((defenseAttrArmor * 2.05) ^ 1.65) -50) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 2.65) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+weaponCostEquation,(((((((damageAvgBase * 6.25) * ((0.5 + (charAttackSpeed / 1.5)) * 1)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 2) * .5))) - 25,
+weaponRangedCostEquation,(((((((damageAvgBase * 9.4) * ((0.5 + (charAttackSpeed / 1.5)) * 1)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 2) * .5))) + 10,
+----
+records\game\itemcost_roh.dbr
+----
+weaponCostEquation,(((((((damageAvgBase * 6.5) * ((0.5 + (charAttackSpeed / 1.5)) * 1.25)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 2) * .5))) - 25,
+weaponRangedCostEquation,(((((((damageAvgBase * 6.5) * ((0.5 + (charAttackSpeed / 1.5)) * 1.25)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 2) * .5))) + 10,
+----
+records\game\itemcost_staff.dbr
+----
+weaponCostEquation,(((((((damageAvgBase * 9.3) * ((0.5 + (charAttackSpeed / 1.5)) * 1.25)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 3) * .9))) + 10,
+weaponRangedCostEquation,(((((((damageAvgBase * 9.3) * ((0.5 + (charAttackSpeed / 1.5)) * 1.25)) ^ 2.4) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 3) * .9))) + 10,
+----
+records\game\itemcost_heavyarmor.dbr
+----
+armorCostEquation,((((defenseAttrArmor * 2.1) ^ 1.65) -50) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 2.65) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+----
+records\game\itemcost_dexarmor.dbr
+----
+armorCostEquation,((((defenseAttrArmor * 2.5) ^ 1.65) +50) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 2.65) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+----
+records\game\itemcost_lightarmor.dbr
+----
+armorCostEquation,((((defenseAttrArmor * 2.5) ^ 1.65) +50) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 2.65) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+----
+records\game\itemcost_magearmor.dbr
+----
+armorCostEquation,((((defenseAttrArmor * 4) ^ 1.65) +10) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 2) * .6)),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 2.65) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),

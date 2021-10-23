@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records\xpack2\skills\item skills\battleawarenessbuff.dbr,
+instantCast,0,

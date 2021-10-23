@@ -1,0 +1,8 @@
+records\xpack2\item\equipmentarmor\ring\*_ring03.dbr
+records\xpack2\item\equipmentarmor\ring\*_ring04.dbr
+records\xpack2\item\equipmentarmor\ring\*_ring05.dbr
+records\xpack2\item\equipmentarmor\amulet\*_amulet03.dbr
+records\xpack2\item\equipmentarmor\amulet\*_amulet04.dbr
+records\xpack2\item\equipmentarmor\amulet\*_amulet05.dbr
+----
+attributeScalePercent,25.000000,
